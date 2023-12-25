@@ -1,3 +1,0 @@
-E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/build/CMakeFiles/pureINS.dir
-E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/build/CMakeFiles/edit_cache.dir
-E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/build/CMakeFiles/rebuild_cache.dir
