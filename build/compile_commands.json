@@ -1,0 +1,32 @@
+[
+{
+  "directory": "E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/build",
+  "command": "g++  @CMakeFiles/pureINS.dir/includes_CXX.rsp -Wno-unused-result -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/pureINS.dir/src/algebra.cpp.obj -c \"E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/src/algebra.cpp\"",
+  "file": "E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/src/algebra.cpp",
+  "output": "CMakeFiles/pureINS.dir/src/algebra.cpp.obj"
+},
+{
+  "directory": "E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/build",
+  "command": "g++  @CMakeFiles/pureINS.dir/includes_CXX.rsp -Wno-unused-result -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/pureINS.dir/src/algorithm.cpp.obj -c \"E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/src/algorithm.cpp\"",
+  "file": "E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/src/algorithm.cpp",
+  "output": "CMakeFiles/pureINS.dir/src/algorithm.cpp.obj"
+},
+{
+  "directory": "E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/build",
+  "command": "g++  @CMakeFiles/pureINS.dir/includes_CXX.rsp -Wno-unused-result -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/pureINS.dir/src/fileio.cpp.obj -c \"E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/src/fileio.cpp\"",
+  "file": "E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/src/fileio.cpp",
+  "output": "CMakeFiles/pureINS.dir/src/fileio.cpp.obj"
+},
+{
+  "directory": "E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/build",
+  "command": "g++  @CMakeFiles/pureINS.dir/includes_CXX.rsp -Wno-unused-result -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/pureINS.dir/src/frame.cpp.obj -c \"E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/src/frame.cpp\"",
+  "file": "E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/src/frame.cpp",
+  "output": "CMakeFiles/pureINS.dir/src/frame.cpp.obj"
+},
+{
+  "directory": "E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/build",
+  "command": "g++  @CMakeFiles/pureINS.dir/includes_CXX.rsp -Wno-unused-result -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles/pureINS.dir/src/main.cpp.obj -c \"E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/src/main.cpp\"",
+  "file": "E:/03-Junior year/first semester/InertialNav/pureINS(CMake)/src/main.cpp",
+  "output": "CMakeFiles/pureINS.dir/src/main.cpp.obj"
+}
+]
